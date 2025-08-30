@@ -4,7 +4,7 @@ The implementations of ROP Detection provided here. This implementation consists
 
 2. Setting the global parameters (such as number of epochs, batch size, etc.).
 
-3. Loading datasets: using the directory next to the code. Some samples of images are provided as a reference of how to set and located the data and how the data look like.
+3. Loading datasets: using the directory next to the code, named `Dataset`. Some samples of images are provided as a reference of how to set and located the data and how the data look like.
 
 4. Pre-Processing inputs and labels to prepare them for feeding to the model.
 
